@@ -32,9 +32,6 @@ Este projeto usa EasyOCR em um contêiner Docker para ler texto de arquivos de i
 
 - [EasyOCR no GitHub](https://github.com/JaidedAI/EasyOCR): Repositório oficial do EasyOCR.
 - [Documentação EasyOCR](https://www.jaided.ai/easyocr/documentation/): Guia completo para configuração e uso do EasyOCR, opções de configuração e exemplos de uso.
-- [EasyOCR Demo e Linguas](https://www.jaided.ai/easyocr/): Demonstra o funcionamento e possui lista com detalhes sobre suporte a idiomas,
-- [Tutorial EasyOCR](https://www.jaided.ai/easyocr/tutorial/): Tutorial basico de uso.
-- [Documentação EasyOCR](https://www.jaided.ai/easyocr/documentation/): Documentação da API do EasyOCR com informações sobre as funções e parametros.
 
 ## Exemplo de Uso
 
